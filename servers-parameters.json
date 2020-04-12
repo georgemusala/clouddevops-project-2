@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udagram-test-env"
+  },
+    {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.medium"
+  },
+  {
+    "ParameterKey": "S3Bucket",
+    "ParameterValue": "cloud-devops-2ndproject-s3bucket"
+  }
+]
